@@ -11,7 +11,7 @@
 // for (int i = 0; i < array.Length; i++)
 // {
 //     array[i] = Convert.ToDouble(new Random().Next(100, 1000)) / 100;
-//     Console.WriteLine(array[i]);
+// Console.Write($"{array[i]},  ");
 //     if (array[i] < min)
 //         min = array[i];
 //     if (array[i] > max)
