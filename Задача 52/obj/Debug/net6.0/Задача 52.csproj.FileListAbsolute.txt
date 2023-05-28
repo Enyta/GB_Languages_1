@@ -1,0 +1,15 @@
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 52\obj\Debug\net6.0\Задача 52.csproj.AssemblyReference.cache
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 52\obj\Debug\net6.0\Задача 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 52\obj\Debug\net6.0\Задача 52.AssemblyInfoInputs.cache
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 52\obj\Debug\net6.0\Задача 52.AssemblyInfo.cs
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 52\obj\Debug\net6.0\Задача 52.csproj.CoreCompileInputs.cache
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 52\bin\Debug\net6.0\Задача 52.exe
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 52\bin\Debug\net6.0\Задача 52.deps.json
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 52\bin\Debug\net6.0\Задача 52.runtimeconfig.json
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 52\bin\Debug\net6.0\Задача 52.dll
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 52\bin\Debug\net6.0\Задача 52.pdb
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 52\obj\Debug\net6.0\Задача 52.dll
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 52\obj\Debug\net6.0\refint\Задача 52.dll
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 52\obj\Debug\net6.0\Задача 52.pdb
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 52\obj\Debug\net6.0\Задача 52.genruntimeconfig.cache
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 52\obj\Debug\net6.0\ref\Задача 52.dll
