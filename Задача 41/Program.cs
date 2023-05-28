@@ -4,7 +4,7 @@
 
 // 1, -7, 567, 89, 223-> 3
 
-// System.Console.WriteLine("Введите размер массива: ");
+// System.Console.WriteLine("Введите количество чисел: ");
 // int NewMass = Convert.ToInt32(Console.ReadLine());
 
 // int Positive = 0;
@@ -25,7 +25,7 @@
 
 // 1, -7, 567, 89, 223-> 3
 
-System.Console.WriteLine("Введите раззмер массива: ");
+System.Console.WriteLine("Введите количество чисел: ");
 int NewMass = Convert.ToInt32(Console.ReadLine());
 
 int PositiveNums()
