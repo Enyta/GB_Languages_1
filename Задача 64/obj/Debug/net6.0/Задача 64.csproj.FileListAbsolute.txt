@@ -1,0 +1,15 @@
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 64\bin\Debug\net6.0\Задача 64.exe
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 64\bin\Debug\net6.0\Задача 64.deps.json
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 64\bin\Debug\net6.0\Задача 64.runtimeconfig.json
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 64\bin\Debug\net6.0\Задача 64.dll
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 64\bin\Debug\net6.0\Задача 64.pdb
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 64\obj\Debug\net6.0\Задача 64.csproj.AssemblyReference.cache
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 64\obj\Debug\net6.0\Задача 64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 64\obj\Debug\net6.0\Задача 64.AssemblyInfoInputs.cache
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 64\obj\Debug\net6.0\Задача 64.AssemblyInfo.cs
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 64\obj\Debug\net6.0\Задача 64.csproj.CoreCompileInputs.cache
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 64\obj\Debug\net6.0\Задача 64.dll
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 64\obj\Debug\net6.0\refint\Задача 64.dll
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 64\obj\Debug\net6.0\Задача 64.pdb
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 64\obj\Debug\net6.0\Задача 64.genruntimeconfig.cache
+C:\Users\Enyta\OneDrive\Desktop\Учеба\Работа с Git\Знакомство с языками программирования\GB_Languages_1\Задача 64\obj\Debug\net6.0\ref\Задача 64.dll
